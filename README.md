@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daglis Medina</h1>
-<h3 align="center">I am a Backend developer living in Venezuela - Caracas</h3>
+<h3 align="center">I am a Front-end developer living in Venezuela - Caracas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daglis08&label=Profile%20views&color=0e75b6&style=flat" alt="daglis08" /> </p>
 
